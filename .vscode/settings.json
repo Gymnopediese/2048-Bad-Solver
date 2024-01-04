@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"sources.h": "c",
+		"mlib.h": "c",
+		"complex": "c",
+		"algorithm": "c",
+		"chrono": "c",
+		"limits": "c",
+		"ratio": "c"
+	}
+}
